@@ -1,0 +1,30 @@
+{
+    "name": "ScamShield",
+    "short_name": "ScamShield",
+    "description": "AI-Powered Scam Protection - Stay safe from phishing, fraud, and online scams",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "security",
+        "utilities",
+        "productivity"
+    ],
+    "screenshots": []
+}
